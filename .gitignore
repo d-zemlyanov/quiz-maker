@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project data (не храним пользовательские файлы в репозитории)
+data/*
+!data/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
